@@ -1,4 +1,5 @@
-package com.mycompany.app;
+package de.fubag.jenkins;
+
 
 /**
  * Hello world!
@@ -6,8 +7,7 @@ package com.mycompany.app;
 public class App
 {
 
-    private final String message = "Hello World!";
-
+    private final String message = "Hello Jenkins!";
     public App() {}
 
     public static void main(String[] args) {
